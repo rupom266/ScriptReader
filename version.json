@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial release"
+  "version": "2.0.0",
+  "notes": "Added Write / Paste for typing or pasting scripts directly, with automatic local draft saving."
 }
