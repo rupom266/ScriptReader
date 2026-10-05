@@ -1,4 +1,4 @@
 {
-  "version": "2.0.0",
-  "notes": "Added Write / Paste for typing or pasting scripts directly, with automatic local draft saving."
+  "version": "2.0.1",
+  "notes": "Saved manual scripts with names and Edit options, separate DOCX recents, removed Add Markers, and fixed download/support links."
 }
